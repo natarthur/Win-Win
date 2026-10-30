@@ -1,0 +1,12 @@
+{
+  "name":"Win Win Building Materials",
+  "short_name":"Win Win",
+  "start_url":".",
+  "display":"standalone",
+  "background_color":"#081322",
+  "theme_color":"#081322",
+  "description":"Win Win building materials business manager",
+  "icons":[
+    {"src":"icons/win-win-logo.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
